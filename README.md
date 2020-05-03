@@ -8,13 +8,13 @@ with no bundler at all.
 
 **Features:**
 
-* <kbd>PageUp</kbd>/<kbd>PageDown</kbd>  
+* <kbd>PageUp</kbd> / <kbd>PageDown</kbd>  
   navigate history up/down line-by-line
-* <kbd>↑</kbd>/<kbd>↓</kbd>  
+* <kbd>↑</kbd> / <kbd>↓</kbd>  
   fuzzy find input line in history
 * <kbd>Control</kbd>+<kbd>r</kbd>  
   search history backwards incrementally
-* <kbd>Home</kbd>/<kbd>End</kbd>  
+* <kbd>Home</kbd> / <kbd>End</kbd>  
   go to beginning/end of input line
 * <kbd>Control</kbd>+<kbd>←</kbd> / <kbd>Control</kbd>+<kbd>→</kbd>  
   move cursor one word forward/backward
